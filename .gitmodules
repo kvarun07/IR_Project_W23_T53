@@ -1,3 +1,9 @@
 [submodule "mid/website/client"]
 	path = mid/website/client
 	url = https://github.com/hadron43/video-retrieval.git
+[submodule "final/website/client"]
+	path = final/website/client
+	url = https://github.com/hadron43/video-retrieval.git
+[submodule "final/website/final/website/backend"]
+	path = final/website/backend
+	url = https://github.com/hadron43/video-retrieval-backend
