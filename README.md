@@ -28,5 +28,5 @@
 
 ### Models
 ```base_models``` = ```final/task/models/```
-Finetuned model weights: ```{base_src}/finetuned_model/```
-Finetuned model index: ```{base_src}/finetuned_faiss_index.index```
+- Finetuned model weights: ```{base_src}/finetuned_model/```
+- Finetuned model index: ```{base_src}/finetuned_faiss_index.index```
